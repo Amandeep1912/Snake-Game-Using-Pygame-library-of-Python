@@ -7,6 +7,7 @@ A simple Snake Game implemented using the **Pygame** library in Python.
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 
 ## About the Project
@@ -44,6 +45,8 @@ To play this game on your local machine, follow these steps:
 - Avoid colliding with the walls or yourself.
 - The game ends when the snake crashes into itself or the boundary.
 
+## Screenshots
+![Screenshots of game](https://github.com/Amandeep1912/Snake-Game-Using-Pygame-library-of-Python/blob/main/Snake%202022-01-21%2010-56-53%20-%20frame%20at%200m18s.jpg)
 ## Technologies Used
 - **Python**
 - **Pygame**
